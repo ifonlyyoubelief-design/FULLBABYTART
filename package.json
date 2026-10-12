@@ -1,0 +1,7 @@
+{
+  "name": "baby-tart",
+  "private": true,
+  "dependencies": {
+    "ethers": "6.13.4"
+  }
+}
